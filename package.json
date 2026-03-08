@@ -1,0 +1,22 @@
+{
+  "name": "backend-ledger",
+  "version": "1.0.0",
+  "description": "A backend banking ledger system that manages accounts, records transactions, ensures data consistency, tracks balances, maintains audit logs, and supports secure financial operations for reliable bank management and transaction processing.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh28Pandey/Backend-Ledger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harsh28Pandey/Backend-Ledger/issues"
+  },
+  "homepage": "https://github.com/Harsh28Pandey/Backend-Ledger#readme"
+}
